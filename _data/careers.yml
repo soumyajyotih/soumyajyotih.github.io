@@ -1,11 +1,11 @@
 - name:
-    detail: Post-doc at INRIA Saclay Ile-de-France/Paris-Saclay Center for Data Science
+    detail: Post-doc at University of Kiel, Kiel, Germany
     i18n: postdoc
   desc:
-    detail: From December 2016 to December 2018, I am a post-doc between the PARIETAL team from INRIA Saclay Ile-de-France and the Paris-Saclay Center for Data Science.
+    detail: Since April 2017, I am a post-doc in Spintronics Theory Group of Prof. Stefan Heinze at the Institute of Theoretical Physics and Astrophysics of University of Kiel. 
     i18n: postdoc_des
   date:
-    detail: Dec. 2016 - Dec. 2018
+    detail: Apr. 2017 - Current  
     i18n: postdoc_date
   job:
     detail: Post-doc
@@ -13,32 +13,33 @@
   icon: fa-search
 
 - name:
-    detail: Joint PhD at UdG/UBFC
+    detail: Post-doc at Uppsala University, Uppsala, Sweden
+    i18n: postdoc
+  desc:
+    detail: After finishing PhD, from December 2016 to March 2017, I was a post-doc in Materials Theory Division at Department of Physics and Astronomy, Uppsala University. I was working with Prof. Biplab Sanyal. 
+    i18n: postdoc_des
+  date:
+    detail: Dec. 2016 - Mar. 2017  
+    i18n: postdoc_date
+  job:
+    detail: Post-doc
+    i18n: potdoc_job
+  #icon: fa-search
+  icon: fa-university
+
+- name:
+    detail: PhD at Uppsala University, Sweden
     i18n: phd
   desc:
-    detail: In November 2016, I graduated from a joint PhD from the Universitat de Girona and the Universite de Bourgogne France-Comte. My thesis was entitled "Computer-Aided Diagnosis for Prostate Cancer using Multi-Parametric Magnetic Resonance Imaging".
+    detail: In November 2016, I graduated from a PhD from the Uppsala University, Sweden. My thesis was entitled "Influence of defects and impurities on the properties of 2D materials".
     i18n: phd_des
   date:
-    detail: Jun. 2012 - Nov. 2016
+    detail: Apr. 2012 - Nov. 2016
     i18n: phd_date
   job:
     detail: PhD candidate
     i18n: phd_job
-  icon: fa-search
-
-- name:
-    detail: Temporary assistant professor at UBFC
-    i18n: phd
-  desc:
-    detail: From March 2015 to March 2016, I was temporary assistant professor at the Universite de Bourgogne Franche-Comte. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
-    i18n: phd_des
-  date:
-    detail: Mar. 2015 - Mar. 2016
-    i18n: ater_date
-  job:
-    detail: ATER
-    i18n: ater_job
-  icon: fa-search
+  icon: fa-university
 
 - name:
     detail: MSc in Business Innovation and Technology Management (BITM) at UdG

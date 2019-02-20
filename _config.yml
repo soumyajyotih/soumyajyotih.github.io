@@ -3,7 +3,7 @@
 # Website settings
 title: "Soumyajyoti Haldar"
 description: "Personal website of Soumyajyoti Haldar"
-keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate"
+keywords: "haldar,soumyajyoti,physics,DFT,spintronics"
 baseurl: "/"
 url: "http://soumyajyotih.github.io"
 # url: "http://127.0.0.1:4000"
@@ -14,11 +14,12 @@ author:
   first_name: 'Soumyajyoti'
   last_name: 'Haldar'
   email: 'haldar.physics@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/guillaume-lemaitre-b9404939'
+  linkedin_username: 'https://www.linkedin.com/in/soumyajyotih'
   github_username: 'soumyajyotih'
   scholar_username: 'https://scholar.google.de/citations?user=70jzq04AAAAJ&hl=en'
   head_img: 'static/img/landing/Haldar_Web2.jpg'
-  desc: 'I am a researcher focusing on medical imaging, pattern recognition, and machine learning. I strive for open source and open data.'
+  desc: 'I am a researcher focusing on computational material physics, magnetism, spintronics, 2D materials, defects & impurities, and atomistic spin dynamics. I strive for open source and open data.'
+
 
 # sections
 sections:
