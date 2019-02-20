@@ -2,24 +2,24 @@
     detail: Post-doc at University of Kiel, Kiel, Germany
     i18n: postdoc
   desc:
-    detail: Since April 2017, I am a post-doc in Spintronics Theory Group of Prof. Stefan Heinze at the Institute of Theoretical Physics and Astrophysics of University of Kiel. 
+    detail: Since April 2017, I am a post-doc in Spintronics Theory Group of Prof. Stefan Heinze at the Institute of Theoretical Physics and Astrophysics of University of Kiel.
     i18n: postdoc_des
   date:
-    detail: Apr. 2017 - Current  
+    detail: Apr. 2017 - Current
     i18n: postdoc_date
   job:
     detail: Post-doc
     i18n: potdoc_job
-  icon: fa-search
+  icon: fa-university
 
 - name:
     detail: Post-doc at Uppsala University, Uppsala, Sweden
     i18n: postdoc
   desc:
-    detail: After finishing PhD, from December 2016 to March 2017, I was a post-doc in Materials Theory Division at Department of Physics and Astronomy, Uppsala University. I was working with Prof. Biplab Sanyal. 
+    detail: After finishing PhD, from December 2016 to March 2017, I was a post-doc in Materials Theory Division at Department of Physics and Astronomy, Uppsala University. I was working with Prof. Biplab Sanyal.
     i18n: postdoc_des
   date:
-    detail: Dec. 2016 - Mar. 2017  
+    detail: Dec. 2016 - Mar. 2017
     i18n: postdoc_date
   job:
     detail: Post-doc
@@ -28,10 +28,10 @@
   icon: fa-university
 
 - name:
-    detail: PhD at Uppsala University, Sweden
+    detail: PhD at Uppsala University, Uppsala, Sweden
     i18n: phd
   desc:
-    detail: In November 2016, I graduated from a PhD from the Uppsala University, Sweden. My thesis was entitled "Influence of defects and impurities on the properties of 2D materials".
+    detail: In November 2016, I graduated from a PhD from the Uppsala University, Sweden. My thesis was entitled "Influence of defects and impurities on the properties of 2D materials". My PhD supervisors were Prof. Biplab Sanyal and Prof. Olle Eriksson.
     i18n: phd_des
   date:
     detail: Apr. 2012 - Nov. 2016
@@ -39,46 +39,63 @@
   job:
     detail: PhD candidate
     i18n: phd_job
+  #icon: fa-university
+  icon: fa-graduation-cap
+
+- name:
+    detail: System Administrator at Uppsala University, Uppsala, Sweden
+    i18n: phd
+  desc:
+    detail: From April 2012 to March 2017, during my stay at the Uppsala University, I have also worked part time as System Administrator for the Materials Theory division at the Department of Physics and Astronomy.
+    i18n: phd_des
+  date:
+    detail: Apr. 2012 - Mar. 2017
+    i18n: phd_date
+  job:
+    detail: System Administrator
+    i18n: phd_job
+  icon: fa-laptop
+
+- name:
+    detail: Junior Research Fellow, University of Pune, Pune, India
+    i18n: bd
+  desc:
+    detail: From July 2009 to January 2012, I was Junior Research Fellow at Centre for Modeling and Simulation, University of Pune. I was working with Prof. Dilip Kanhere in a Indo-Swiss joint research programme funded by DST and SNSF.
+    i18n: bd_des
+  date:
+    detail: Jul. 2009 - Jan. 2012
+    i18n: bd_date
+  job:
+    detail: Junior Research Fellow
+    i18n: bd_job
   icon: fa-university
 
 - name:
-    detail: MSc in Business Innovation and Technology Management (BITM) at UdG
+    detail: MSc in Physics at University of Pune, Pune, India.
     i18n: bitm
   desc:
-    detail: In September 2014, I graduated from a Master in Business Innovation and Technology Management. My final thesis "Valorisation of Computerized Technology in the Health Care Sector".
+    detail: In June 2009, I graduated from a Masters of Science in Physics. My final thesis "Simulation Studies of Defect in Semiconductor Clusters".
     i18n: bitm_des
   date:
-    detail: Sep. 2012 - Sep. 2014
+    detail: Jul. 2007 - Jun. 2009
     i18n: bitm_date
   job:
     detail: MSc student candidate
     i18n: bitm_job
-  icon: fa-book
+  #icon: fa-book
+  icon: fa-graduation-cap
 
 - name:
-    detail: Barcelona Digital
-    i18n: bd
-  desc:
-    detail: From September 2011 to June 2012, I was researcher at Barcelona Digital focusing on object recognition and more precisely traffic sign detection.
-    i18n: bd_des
-  date:
-    detail: Sep. 2011 - Jun. 2012
-    i18n: bd_date
-  job:
-    detail: Intern researcher
-    i18n: bd_job
-  icon: fa-search
-
-- name:
-    detail: Erasmus Mundus MSc in Vision and Robotics (Vibot) at HWU-UdG-UBFC
+    detail: BSc in Physics at University of Calcutta, Kolkata, India.
     i18n: vibot
   desc:
-    detail: In September 2011, I graduated from a Master in Vision and Robotics. My final thesis was entitled "Absolute Quantification in 1H MRSI of the Prostate at 3T".
+    detail: In June 2007, I graduated from a Bachelors of Science in Physics from St. Xavier's College.
     i18n: vibot_des
   date:
-    detail: Sep. 2009 - Sep. 2011
+    detail: Aug. 2004 - Jun. 2007
     i18n: vibot_date
   job:
-    detail: MSc student candidate
+    detail: BSc student candidate
     i18n: vibot_job
-  icon: fa-book
+  #icon: fa-book
+  icon: fa-graduation-cap
