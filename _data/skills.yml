@@ -1,41 +1,47 @@
-- name: Medical Imaging
+- name: <em>Ab initio</em> Calculations/Materials Modelling
   percentage: 95
 
 - name: Python
-  percentage: 95
-
-- name: Prostate Cancer
-  percentage: 95
-
-- name: C/C++
-  percentage: 80
-
-- name: Retinopathy
   percentage: 85
 
-- name: Git
-  percentage: 98
-
-- name: Pattern Recognition
+- name: Magnetism/Molecular Magnets
   percentage: 90
+
+- name: Fortran
+  percentage: 90
+
+- name: Spintronics
+  percentage: 90
+
+- name: C/C++
+  percentage: 70
+
+- name: 2D Materials/Surfaces
+  percentage: 85
 
 - name: Linux/Unix
   percentage: 95
 
-- name: Machine Learning
-  percentage: 90
+- name: Atomistic Spin Dynamics
+  percentage: 80
 
-- name: Matlab
-  percentage: 90
+- name: Matlab/Mathematica
+  percentage: 75
 
-- name: Data Mining
-  percentage: 90
+- name: Molecular Dynamics
+  percentage: 80
 
 - name: Latex
   percentage: 95
 
-- name: Computer Vision
-  percentage: 85
+- name: Defects/Impurities
+  percentage: 90
 
 - name: HTML/CSS
   percentage: 80
+
+- name: Electronic Transport/ NEB Methods
+  percentage: 75
+
+- name: Bash Scripting
+  percentage: 90
