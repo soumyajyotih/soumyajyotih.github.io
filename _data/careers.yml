@@ -54,7 +54,7 @@
   job:
     detail: System Administrator
     i18n: phd_job
-  icon: fa-laptop
+  icon: fa-server
 
 - name:
     detail: Junior Research Fellow, University of Pune, Pune, India
